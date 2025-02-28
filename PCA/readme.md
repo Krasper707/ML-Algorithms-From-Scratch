@@ -5,10 +5,7 @@ A clean, efficient implementation of Principal Component Analysis (PCA) from scr
 
 
 - Pure NumPy implementation (no black-box dependencies)
-- Matches scikit-learn's PCA API for easy integration
-- Detailed documentation and examples
 - Support for explained variance analysis
-- Data reconstruction capabilities
 - Visualization utilities
 
 
